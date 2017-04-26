@@ -1,0 +1,20 @@
+.mian-left{
+	border: 1px #dddddd solid;
+	border-radius: 4px;
+}
+
+
+.main h4{
+	border-bottom: 1px #eeeeee solid;
+	padding-bottom: 10px;
+}
+.main h5{
+	padding-top: 7px;
+}
+.four{
+	margin-top: 16px;
+}
+.footer{
+	text-align: center;
+	margin-top: 40px;
+}

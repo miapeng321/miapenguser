@@ -1,0 +1,54 @@
+
+.main{
+	background: #272b30;
+}
+
+.mian-left{
+	border: 1px #dddddd solid;
+	border-radius: 4px;
+}
+
+
+.main h4{
+	border-bottom: 1px #eeeeee solid;
+	padding-bottom: 10px;
+}
+.main h5{
+	padding-top: 7px;
+}
+.four{
+	margin-top: 16px;
+}
+.footer{
+	text-align: center;
+	margin-top: 40px;
+}
+.page-auter{
+	text-align: right;
+}
+.main h4 {
+    border-bottom: 1px black solid;
+    padding-bottom: 10px;
+}
+
+.table th{
+	color: #bfc8c8;
+}
+.table tr{
+	color: #bfc8c8;
+}
+
+.footer{
+	color: #bfc8c8;
+}
+
+.table > tfoot > tr > td {
+			    padding: 8px;
+			    line-height: 1.42857143;
+			    vertical-align: top;
+			    border-top: 1px solid black;			
+}
+.table{
+	margin-top: 12px;
+}
+			
